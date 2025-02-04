@@ -9,3 +9,15 @@
 
 ## Exercises
 
+- Initialize an empty repository
+- Add a main file and print "hello"
+- Add file to the staging are and create a commit
+- Use git status during the whole process
+- Create a `.gitignore` file and ignore a secret(fake) API key
+
+
+### Advance Exerc
+
+- Create a repository in GitHub and connect your local repo with it
+- Add more changes as a second commit
+
