@@ -5,3 +5,7 @@
 3. `git add`: Add files to staging area
 4. `git commit -m "Write a clear message here"`: Creates a commit 
 5 `git log`: Check the logs
+
+
+## Exercises
+
